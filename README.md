@@ -2,9 +2,6 @@
 
 ![Bikes Data Dashboard](bikes_dashboard_image.png)
 
-
-# Bike Sales Dashboard
-
 ## 1. Projektüberblick  
 Dieses Dashboard bietet eine kompakte Übersicht über das Kaufverhalten von Fahrradinteressentinnen und -interessenten, indem es das durchschnittliche Einkommen pro Transaktion in Abhängigkeit von Geschlecht und Kaufentscheidung untersucht, das Alter der Kundschaft in drei Altersgruppen segmentiert und die Entfernung des Arbeitswegs als Einflussfaktor auf die Kaufwahrscheinlichkeit betrachtet. Ziel ist es, Marketing- und Vertriebsstrategien durch datenbasierte Einblicke zu optimieren und gezielte Maßnahmen für unterschiedliche Kundensegmente abzuleiten.
 
